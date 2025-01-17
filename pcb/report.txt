@@ -1,0 +1,19 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-F_Cu.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-B_Cu.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-F_Paste.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-B_Paste.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-F_Mask.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-B_Mask.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/brianlesko/Documents/test/pwm_power/pwm_power-job.gbrjob'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-F_Cu.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-B_Cu.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-F_Paste.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-B_Paste.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-F_Mask.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-B_Mask.gbr'.
+Plotted to '/Users/brianlesko/Documents/test/pwm_power/pwm_power-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/brianlesko/Documents/test/pwm_power/pwm_power-job.gbrjob'.
+Info: Done.
+Info: Done.
