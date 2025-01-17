@@ -5,9 +5,9 @@ This repository holds the KiCad files for an abismally simple pcb design meant f
 This design makes it cheap and easy to control many servo motors and run other control programs on the microcontroller. This is intended for use in robotics projects.
 
 <div align="center">
-<img src="pcb/image.png" alt="PCB Image" width="300">
-<img src="3d_print/image.png" alt="3D Print Image" width="300">
-<img src="./no_pcb.jpg" alt="photo of 3dprint and teensy" width="300">
+<img src="pcb/image.png" alt="PCB Image" width="255">
+<img src="3d_print/image.png" alt="3D Print Image" width="255">
+<img src="./no_pcb.jpg" alt="photo of 3dprint and teensy" width="255">
 </div>
 
 ## What is PWM
