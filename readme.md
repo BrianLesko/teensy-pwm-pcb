@@ -1,8 +1,7 @@
 # Teensy 4.0 PWM pcb
 
-This repository holds the KiCad files for an abismally simple pcb design meant for carrying ground and power to servos or bldc speed controllers using a 3 female pin (Futaba J) connector. The signal is meant to come from a microcontroller immediately next to the pcb - a 3d printed holder is included for this.
-
-This design is compact and can control several servo motors and BLDC motors at once. This is intended for use in robotics projects.
+**My go-to board for servo motor and ESC control** 
+This compact PCB design and 3dprinted mount brings power rails parallel to your teensy 4.0 microcontroller. Any 3-pin Futaba J connector can plug right into your teensy. Intended for use in robotics projects.
 
 <div align="center">
 <img src="pcb/image.png" alt="PCB Image" height="255">
@@ -10,20 +9,16 @@ This design is compact and can control several servo motors and BLDC motors at o
 <img src="./no_pcb.JPG" alt="photo of 3dprint and teensy" height="255">
 </div>
 
-## What is PWM
-
-pulse width modulation means switching a voltage on and off to imitate a continuous analog signal. PWM was developed with some specifications, but has been iterated upon for lower latency in protocols like Dshot and Multishot, popular in the quadcopter drone industry. 
-
-## What is a PCB
-
-printed circuit board
-
 ## Why use a PCB
 
-connecting the ground and Vin signal can be done by bending extra long headers and soldering them together, but this takes a bit longer while using more space.
-
-# KiCad
+Sure, you ***could*** bend long headers and solder everything by hand—but that’s time-consuming and error-prone.
 
 The pcb files here were made with [KiCad](https://www.kicad.org). 
 
-Here are my notes on using KiCad
+## 3d Printed Mount 
+
+The print needs high accuracy because this setup is so compact. Its smaller than most RC gyro units. 
+
+## PWM 
+
+[pwm](https://en.wikipedia.org/wiki/Pulse-width_modulation)
