@@ -7,7 +7,7 @@ This design makes it cheap and easy to control many servo motors and run other c
 <div align="center">
 <img src="pcb/image.png" alt="PCB Image" width="300">
 <img src="3d_print/image.png" alt="3D Print Image" width="300">
-<img src="no_pcb.jpg" width="300">
+<img src="./no_pcb.jpg" alt="photo of 3dprint and teensy" width="300">
 </div>
 
 ## What is PWM
