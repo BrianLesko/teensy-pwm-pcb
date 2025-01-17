@@ -2,7 +2,7 @@
 
 This repository holds the KiCad files for an abismally simple pcb design meant for carrying ground and power to servos or bldc speed controllers using a 3 female pin (Futaba J) connector. The signal is meant to come from a microcontroller immediately next to the pcb - a 3d printed holder is included for this.
 
-This design makes it cheap and easy to control many servo motors and run other control programs on the microcontroller. This is intended for use in robotics projects.
+This design is compact and can control several servo motors and BLDC motors at once. This is intended for use in robotics projects.
 
 <div align="center">
 <img src="pcb/image.png" alt="PCB Image" height="255">
