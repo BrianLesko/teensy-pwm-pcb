@@ -19,20 +19,20 @@ materials:
 - `Futaba J connectors`
 
 1. Solder the pcb to two rows of headers.
-<img src="pcb/image.png" alt="PCB Image" height="150">
+<img src="pcb/image.png" alt="PCB Image" height="100">
 
 2. Print the mount.
-<img src="3d_print/image.png" alt="3D Print Image" height="150">
+<img src="3d_print/image.png" alt="3D Print Image" height="100">
 Because its small you might have to adjust the tolerances for your printerto fit the teensy.
 
 3. Solder one row of headers to the teensy. Make sure to do it on the right side of the teensy.
 
 4. Put the teensy and pcb in the mount.
-<img src="assembled.jpg" alt="assembled" height="150">
+<img src="assembled.jpg" alt="assembled" height="100">
 You might have to sand down the headers depending on the accuracy of your print.
 
 5. Connect ground on the pcb to the ground on the teensy.
-<img src="ground.jpg" alt="ground bus connected to teensy" height="150">
+<img src="ground.jpg" alt="ground bus connected to teensy" height="100">
 
 6. Add your power source to any set of pins on the teensy, connect your motors, and try out some pwm control.
 You can get started with the included `sketch.ino` file. You'll need to [set up your teensy](https://www.pjrc.com/teensy/teensyduino.html) and install the [PWMservo](https://www.pjrc.com/teensy/td_libs_Servo.html) library. Check out the result in test.mp4.
