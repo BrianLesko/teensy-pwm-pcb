@@ -39,7 +39,9 @@ materials:
 -Check out the result in test.mp4.
 
 #### 7. Watch the demonstration video.
-![Watch the demonstration video](test.mp4)
+<video src="test.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 
 
 ## Teensy 4.0
