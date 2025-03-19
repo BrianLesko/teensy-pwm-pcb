@@ -39,8 +39,7 @@ materials:
 -Check out the result in test.mp4.
 
 #### 7. Watch the demonstration video.
-![Watch the demonstration video](https://github.com/BrianLesko/teensy-pwm-pcb/blob/main/test.mp4)
-
+[Watch the demo on X](https://x.com/TheBrianLesko/status/1888679622583464144)
 
 ## Teensy 4.0
 
