@@ -38,6 +38,8 @@ materials:
 - You'll need to [set up your teensy](https://www.pjrc.com/teensy/teensyduino.html) and install the [PWMservo](https://www.pjrc.com/teensy/td_libs_Servo.html) library. 
 -Check out the result in test.mp4.
 
+#### 7. Watch the demonstration video.
+![Watch the demonstration video](test.mp4)
 
 
 ## Teensy 4.0
